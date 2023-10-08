@@ -9,8 +9,6 @@ HowieXWH/HowieXWH is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-If you're unsure how these work, just double-click on this text and you'll see Markdown in a Jupyter notebook. Here's some sample text to get you started:
-
 ## Foundations of Spatial Data Science
 
 This repository contains practicals and notes from the _Foundations_ module. 
